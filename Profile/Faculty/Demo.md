@@ -1,10 +1,10 @@
-#GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
-##ACADEMIC SECTION
+# GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+## ACADEMIC SECTION
 No._____________								Dated: 07th Dec. 2020
 | Photo | ![Display picture](Photos/PB.jpg) 
 | ------ | -------- |
-| Name | Pankaj Bhambri |
-| Date of Birth | 03/10/1979 |
+| Programme Name | College Roll Nos. of the Students | Mentor’s Name | Mentor’s College Internet ID
+|                |                   |               | 
 | Designation | Assistant Professor |
 | Department | Information Technology |
 | Email | pkbhambri@gndec.ac.in |
