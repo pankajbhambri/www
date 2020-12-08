@@ -1,5 +1,5 @@
 # GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
 ## ACADEMIC SECTION
-No._____________								Dated: 07th Dec. 2020
+| Photo | ![Display picture](Photos/PB.jpg) 
 | ------ | -------- |
 | Name | Pankaj Bhambri |
