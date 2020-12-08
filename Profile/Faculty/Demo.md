@@ -1,2 +1,4 @@
 # GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
 ## ACADEMIC SECTION
+
+[Weblink](http://gdy.club/t5)
