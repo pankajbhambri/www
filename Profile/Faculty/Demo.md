@@ -2,8 +2,8 @@
 ## ACADEMIC SECTION
 No._____________								Dated: 07th Dec. 2020
 | Photo | ![Display picture](Photos/PB.jpg) 
-| ------ | -------- |
-| Programme Name | College Roll Nos. of the Students | Mentor’s Name | Mentor’s College Internet ID
+| -------------- | --------------------------------- | ------------- | ---------------------------- |
+| Programme Name | College Roll Nos. of the Students | Mentor’s Name | Mentor’s College Internet ID |
 |                |                   |               | 
 | Designation | Assistant Professor |
 | Department | Information Technology |
